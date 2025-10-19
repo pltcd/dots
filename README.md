@@ -6,6 +6,8 @@ This is a collection of configuration files for my **Arch Linux** + **Hyprland**
 
 **Keep in mind** that there's no installation script, just the configs.
 
+Wallpaper source -- ```https://wallhaven.cc/w/9oxjvd```
+
 # dependencies
 **AUR install helper** -- ```paru```, but you can also use ```yay``` if you wish :)
 
