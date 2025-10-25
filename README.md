@@ -43,7 +43,7 @@ Wallpaper source -- ```https://wallhaven.cc/w/9oxjvd```
 
 **System info** -- ```fastfetch```
 
-**Logout** -- ```wlogout```
+**Logout** -- ```wlogout``` (from *AUR*)
 
 **AirDrop-like thing** -- ```localsend``` (from *AUR*)
 
@@ -65,7 +65,7 @@ Wallpaper source -- ```https://wallhaven.cc/w/9oxjvd```
 
 1. Install packages from pacman:
 
-```sudo pacman -S --needed pipewire wireplumber nemo xed wofi hyprpaper hyprshot nwg-look qt5ct qt6ct qt5-wayland qt6-wayland kvantum kvantum-qt5 breeze-icons ttf-fira-mono gamescope cliphist fastfetch wlogout```
+```sudo pacman -S --needed pipewire wireplumber nemo xed wofi hyprpaper hyprshot nwg-look qt5ct qt6ct qt5-wayland qt6-wayland kvantum kvantum-qt5 breeze-icons ttf-fira-mono gamescope cliphist fastfetch```
 
 2. Install ```paru```:
 
@@ -73,7 +73,7 @@ Wallpaper source -- ```https://wallhaven.cc/w/9oxjvd```
 
 3. Install packages from *AUR* using ```paru```:
 
-```paru -S ashell localsend```
+```paru -S ashell localsend wlogout```
 
 4. Move config files to your home directory :)
 
