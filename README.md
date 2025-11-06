@@ -61,11 +61,11 @@ Wallpaper source -- ```https://wallhaven.cc/w/9oxjvd```
    4) ```Super``` + ```Shift``` + ```PrintScreen``` -- screenshot of a region to clipboard
 
 # installation
-[ ⚠️ *you have to install **Hyprland**, **uwsm**, **kitty** and **ly** first*. ]
+[ ⚠️ *you have to install **Hyprland**, **uwsm**, **kitty**, **wofi** and **ly** first*. ]
 
 1. Install packages from pacman:
 
-```sudo pacman -S --needed pipewire wireplumber nemo xed wofi hyprpaper hyprshot nwg-look qt5ct qt6ct qt5-wayland qt6-wayland kvantum kvantum-qt5 breeze-icons ttf-fira-mono gamescope cliphist fastfetch```
+```sudo pacman -S --needed pipewire wireplumber nemo xed hyprpaper hyprshot nwg-look qt5ct qt6ct qt5-wayland qt6-wayland kvantum kvantum-qt5 breeze-icons ttf-fira-mono gamescope cliphist fastfetch```
 
 2. Install ```paru```:
 
